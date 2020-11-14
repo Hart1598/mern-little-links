@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "hartboss mern",
+    "mongoUrl": "mongodb+srv://jaroslav:123457@cluster0.sepoa.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
